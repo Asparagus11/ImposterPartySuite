@@ -2,6 +2,10 @@
 
 Offline-Party-Spiele-App für 3–15 Spieler mit drei Modi: Imposter, Undercover und Spyfall. Ein Gerät wird herumgereicht (Pass-and-Play). Keine Werbung, kein Tracking, keine Berechtigungen.
 
+## Download
+
+📥 Die aktuelle APK findest du unter [Releases](../../releases).
+
 ## Screenshots
 
 | | |
