@@ -37,7 +37,7 @@ Diese App funktioniert komplett offline ohne Datenaustausch. Sie ist Teil einer 
 
 ## Entwicklung
 
-Diese App wurde größtenteils mit einem Coding-Agenten ([Kiro CLI](https://kiro.dev)) entwickelt.
+Diese App wurde größtenteils mit einem KI Coding-Agenten entwickelt.
 
 Wenn du dich nicht mit Android-App-Entwicklung auskennst, ist ein Coding-Agent wie
 [Kiro](https://kiro.dev) (freies Kontingent verfügbar) oder [OpenCode](https://opencode.ai)
