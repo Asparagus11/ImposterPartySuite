@@ -8,9 +8,9 @@ Offline-Party-Spiele-App für 3–15 Spieler mit drei Modi: Imposter, Undercover
 
 ## Screenshots
 
-| | |
-|---|---|
-| ![Screenshot 1](screenshots/screenshot1.png) | ![Screenshot 2](screenshots/screenshot2.png) |
+| |
+|---|
+| ![Screenshot](Screenshot_20260825-151925_Imposter.png) |
 
 ## Features
 
